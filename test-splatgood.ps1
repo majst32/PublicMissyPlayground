@@ -1,7 +1,7 @@
 param()
 
 $ProgressPreference = 'SilentlyContinue'
-$params = @{ ComputerName = "servername.contoso.com"
+$params = @{ComputerName = "servername.contoso.com"
     Port = 5985
 }
 
